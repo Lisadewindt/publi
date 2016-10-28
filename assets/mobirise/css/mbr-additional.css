@@ -1,0 +1,622 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
+
+
+
+
+#index-menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#index-menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#index-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#index-menu-0 .close-icon::before,
+#index-menu-0 .close-icon::after {
+  background-color: #000000;
+}
+#index-menu-0 .link,
+#index-menu-0 .dropdown-item {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#index-menu-0 .link {
+  font-size: 0.7rem;
+}
+#index-menu-0 .dropdown-item,
+#index-menu-0 .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#index-menu-0 .link:hover,
+#index-menu-0 .dropdown-item:hover,
+#index-menu-0 .link:focus,
+#index-menu-0 .dropdown-item:focus {
+  color: #efefef;
+}
+#index-menu-0 .link[aria-expanded="true"],
+#index-menu-0 .dropdown-menu {
+  background: #e6e6e6;
+}
+#index-menu-0 .nav-dropdown-sm .link:focus,
+#index-menu-0 .nav-dropdown-sm .link:hover,
+#index-menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#index-menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#index-menu-0 .navbar,
+#index-menu-0 .nav-dropdown-sm,
+#index-menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#index-menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#index-menu-0 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#index-menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#index-menu-0 .bg-color.transparent.opened .link:hover,
+#index-menu-0 .bg-color.transparent.opened .link:focus {
+  color: #efefef;
+}
+#index-menu-0 .link[aria-expanded="true"],
+#index-menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #efefef!important;
+}
+#index-header1-0 .mbr-section-title P {
+  color: #000000;
+  font-size: 46px;
+  text-align: right;
+  font-family: 'Ubuntu', sans-serif;
+}
+#index-header1-0 .mbr-section-lead {
+  font-family: 'Ubuntu', sans-serif;
+  color: #000000;
+  font-size: 36px;
+  text-align: right;
+}
+#index-header1-1 .mbr-section-lead {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#index-header1-1 .mbr-section-title {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#index-social-buttons1-0 .mbr-section-title {
+  text-align: center;
+  font-size: 32px;
+}
+#index-social-buttons1-0 .mbr-section-title P {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+#page1-menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#page1-menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#page1-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#page1-menu-0 .close-icon::before,
+#page1-menu-0 .close-icon::after {
+  background-color: #000000;
+}
+#page1-menu-0 .link,
+#page1-menu-0 .dropdown-item {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#page1-menu-0 .link {
+  font-size: 0.7rem;
+}
+#page1-menu-0 .dropdown-item,
+#page1-menu-0 .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#page1-menu-0 .link:hover,
+#page1-menu-0 .dropdown-item:hover,
+#page1-menu-0 .link:focus,
+#page1-menu-0 .dropdown-item:focus {
+  color: #efefef;
+}
+#page1-menu-0 .link[aria-expanded="true"],
+#page1-menu-0 .dropdown-menu {
+  background: #e6e6e6;
+}
+#page1-menu-0 .nav-dropdown-sm .link:focus,
+#page1-menu-0 .nav-dropdown-sm .link:hover,
+#page1-menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#page1-menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#page1-menu-0 .navbar,
+#page1-menu-0 .nav-dropdown-sm,
+#page1-menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#page1-menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#page1-menu-0 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#page1-menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#page1-menu-0 .bg-color.transparent.opened .link:hover,
+#page1-menu-0 .bg-color.transparent.opened .link:focus {
+  color: #efefef;
+}
+#page1-menu-0 .link[aria-expanded="true"],
+#page1-menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #efefef!important;
+}
+#contact-header3-0 .mbr-section-title,
+#contact-header3-0 .mbr-section-subtitle {
+  text-align: center;
+}
+#contact-header3-0 H3 {
+  text-align: right;
+  font-size: 36px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#contact-content1-0 P {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+#page2-menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#page2-menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#page2-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#page2-menu-0 .close-icon::before,
+#page2-menu-0 .close-icon::after {
+  background-color: #000000;
+}
+#page2-menu-0 .link,
+#page2-menu-0 .dropdown-item {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#page2-menu-0 .link {
+  font-size: 0.7rem;
+}
+#page2-menu-0 .dropdown-item,
+#page2-menu-0 .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#page2-menu-0 .link:hover,
+#page2-menu-0 .dropdown-item:hover,
+#page2-menu-0 .link:focus,
+#page2-menu-0 .dropdown-item:focus {
+  color: #efefef;
+}
+#page2-menu-0 .link[aria-expanded="true"],
+#page2-menu-0 .dropdown-menu {
+  background: #e6e6e6;
+}
+#page2-menu-0 .nav-dropdown-sm .link:focus,
+#page2-menu-0 .nav-dropdown-sm .link:hover,
+#page2-menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#page2-menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#page2-menu-0 .navbar,
+#page2-menu-0 .nav-dropdown-sm,
+#page2-menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#page2-menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#page2-menu-0 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#page2-menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#page2-menu-0 .bg-color.transparent.opened .link:hover,
+#page2-menu-0 .bg-color.transparent.opened .link:focus {
+  color: #efefef;
+}
+#page2-menu-0 .link[aria-expanded="true"],
+#page2-menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #efefef!important;
+}
+#patroon-content5-0 .mbr-section-title,
+#patroon-content5-0 p {
+  color: #fff;
+}
+#patroon-content5-0 .mbr-section-title {
+  font-family: 'Ubuntu', sans-serif;
+  color: #000000;
+  text-align: left;
+}
+#patroon-content5-0 P {
+  color: #000000;
+}
+
+
+
+#page5-menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#page5-menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#page5-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#page5-menu-0 .close-icon::before,
+#page5-menu-0 .close-icon::after {
+  background-color: #000000;
+}
+#page5-menu-0 .link,
+#page5-menu-0 .dropdown-item {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#page5-menu-0 .link {
+  font-size: 0.7rem;
+}
+#page5-menu-0 .dropdown-item,
+#page5-menu-0 .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#page5-menu-0 .link:hover,
+#page5-menu-0 .dropdown-item:hover,
+#page5-menu-0 .link:focus,
+#page5-menu-0 .dropdown-item:focus {
+  color: #efefef;
+}
+#page5-menu-0 .link[aria-expanded="true"],
+#page5-menu-0 .dropdown-menu {
+  background: #e6e6e6;
+}
+#page5-menu-0 .nav-dropdown-sm .link:focus,
+#page5-menu-0 .nav-dropdown-sm .link:hover,
+#page5-menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#page5-menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#page5-menu-0 .navbar,
+#page5-menu-0 .nav-dropdown-sm,
+#page5-menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#page5-menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#page5-menu-0 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#page5-menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#page5-menu-0 .bg-color.transparent.opened .link:hover,
+#page5-menu-0 .bg-color.transparent.opened .link:focus {
+  color: #efefef;
+}
+#page5-menu-0 .link[aria-expanded="true"],
+#page5-menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #efefef!important;
+}
+#motief-content5-0 .mbr-section-title,
+#motief-content5-0 p {
+  color: #fff;
+}
+#motief-content5-0 .mbr-section-title {
+  font-family: 'Ubuntu', sans-serif;
+  color: #000000;
+}
+#motief-content5-0 P {
+  font-family: 'Raleway', sans-serif;
+  color: #000000;
+}
+
+#page4-menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#page4-menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#page4-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#page4-menu-0 .close-icon::before,
+#page4-menu-0 .close-icon::after {
+  background-color: #000000;
+}
+#page4-menu-0 .link,
+#page4-menu-0 .dropdown-item {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#page4-menu-0 .link {
+  font-size: 0.7rem;
+}
+#page4-menu-0 .dropdown-item,
+#page4-menu-0 .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#page4-menu-0 .link:hover,
+#page4-menu-0 .dropdown-item:hover,
+#page4-menu-0 .link:focus,
+#page4-menu-0 .dropdown-item:focus {
+  color: #efefef;
+}
+#page4-menu-0 .link[aria-expanded="true"],
+#page4-menu-0 .dropdown-menu {
+  background: #e6e6e6;
+}
+#page4-menu-0 .nav-dropdown-sm .link:focus,
+#page4-menu-0 .nav-dropdown-sm .link:hover,
+#page4-menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#page4-menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#page4-menu-0 .navbar,
+#page4-menu-0 .nav-dropdown-sm,
+#page4-menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#page4-menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#page4-menu-0 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#page4-menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#page4-menu-0 .bg-color.transparent.opened .link:hover,
+#page4-menu-0 .bg-color.transparent.opened .link:focus {
+  color: #efefef;
+}
+#page4-menu-0 .link[aria-expanded="true"],
+#page4-menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #efefef!important;
+}
+#lengte_breedte kruispunt-content5-0 .mbr-section-title,
+#lengte_breedte kruispunt-content5-0 p {
+  color: #fff;
+}
+
+
+
+#page6-menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#page6-menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#page6-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#page6-menu-0 .close-icon::before,
+#page6-menu-0 .close-icon::after {
+  background-color: #000000;
+}
+#page6-menu-0 .link,
+#page6-menu-0 .dropdown-item {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#page6-menu-0 .link {
+  font-size: 0.7rem;
+}
+#page6-menu-0 .dropdown-item,
+#page6-menu-0 .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#page6-menu-0 .link:hover,
+#page6-menu-0 .dropdown-item:hover,
+#page6-menu-0 .link:focus,
+#page6-menu-0 .dropdown-item:focus {
+  color: #efefef;
+}
+#page6-menu-0 .link[aria-expanded="true"],
+#page6-menu-0 .dropdown-menu {
+  background: #e6e6e6;
+}
+#page6-menu-0 .nav-dropdown-sm .link:focus,
+#page6-menu-0 .nav-dropdown-sm .link:hover,
+#page6-menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#page6-menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#page6-menu-0 .navbar,
+#page6-menu-0 .nav-dropdown-sm,
+#page6-menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#page6-menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#page6-menu-0 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#page6-menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#page6-menu-0 .bg-color.transparent.opened .link:hover,
+#page6-menu-0 .bg-color.transparent.opened .link:focus {
+  color: #efefef;
+}
+#page6-menu-0 .link[aria-expanded="true"],
+#page6-menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #efefef!important;
+}
+#public_secret-content5-0 .mbr-section-title,
+#public_secret-content5-0 p {
+  color: #fff;
+}
+#public_secret-content5-0 .mbr-section-title {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#public_secret-content5-0 P {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+
+#page7-menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#page7-menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#page7-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#page7-menu-0 .close-icon::before,
+#page7-menu-0 .close-icon::after {
+  background-color: #000000;
+}
+#page7-menu-0 .link,
+#page7-menu-0 .dropdown-item {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#page7-menu-0 .link {
+  font-size: 0.7rem;
+}
+#page7-menu-0 .dropdown-item,
+#page7-menu-0 .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#page7-menu-0 .link:hover,
+#page7-menu-0 .dropdown-item:hover,
+#page7-menu-0 .link:focus,
+#page7-menu-0 .dropdown-item:focus {
+  color: #efefef;
+}
+#page7-menu-0 .link[aria-expanded="true"],
+#page7-menu-0 .dropdown-menu {
+  background: #e6e6e6;
+}
+#page7-menu-0 .nav-dropdown-sm .link:focus,
+#page7-menu-0 .nav-dropdown-sm .link:hover,
+#page7-menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#page7-menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#page7-menu-0 .navbar,
+#page7-menu-0 .nav-dropdown-sm,
+#page7-menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#page7-menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#page7-menu-0 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#page7-menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#page7-menu-0 .bg-color.transparent.opened .link:hover,
+#page7-menu-0 .bg-color.transparent.opened .link:focus {
+  color: #efefef;
+}
+#page7-menu-0 .link[aria-expanded="true"],
+#page7-menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #efefef!important;
+}
+#same_same-content5-0 .mbr-section-title,
+#same_same-content5-0 p {
+  color: #fff;
+}
+#same_same-content5-0 .mbr-section-title {
+  color: #000000;
+}
+#same_same-content5-0 P {
+  color: #000000;
+}
+
+
+#page3-menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#page3-menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#page3-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#page3-menu-0 .close-icon::before,
+#page3-menu-0 .close-icon::after {
+  background-color: #000000;
+}
+#page3-menu-0 .link,
+#page3-menu-0 .dropdown-item {
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#page3-menu-0 .link {
+  font-size: 0.7rem;
+}
+#page3-menu-0 .dropdown-item,
+#page3-menu-0 .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#page3-menu-0 .link:hover,
+#page3-menu-0 .dropdown-item:hover,
+#page3-menu-0 .link:focus,
+#page3-menu-0 .dropdown-item:focus {
+  color: #efefef;
+}
+#page3-menu-0 .link[aria-expanded="true"],
+#page3-menu-0 .dropdown-menu {
+  background: #e6e6e6;
+}
+#page3-menu-0 .nav-dropdown-sm .link:focus,
+#page3-menu-0 .nav-dropdown-sm .link:hover,
+#page3-menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#page3-menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#page3-menu-0 .navbar,
+#page3-menu-0 .nav-dropdown-sm,
+#page3-menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#page3-menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#page3-menu-0 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#page3-menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#page3-menu-0 .bg-color.transparent.opened .link:hover,
+#page3-menu-0 .bg-color.transparent.opened .link:focus {
+  color: #efefef;
+}
+#page3-menu-0 .link[aria-expanded="true"],
+#page3-menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #efefef!important;
+}
+#azilal_-content5-0 .mbr-section-title,
+#azilal_-content5-0 p {
+  color: #fff;
+}
+#azilal_-content5-0 .mbr-section-title {
+  font-family: 'Ubuntu', sans-serif;
+  color: #000000;
+}
+#azilal_-content5-0 P {
+  color: #000000;
+}
